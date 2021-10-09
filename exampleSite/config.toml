@@ -53,31 +53,31 @@ languageCode = "pt-br"
 languageName = "Br"
 weight = "1"
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "Sobre"
 url = "#about"
 weight = 1
 [[Languages.fr.menu.main]]
-name = "un service"
+name = "Serviços"
 url = "#services"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "portefeuille"
+name = "Portfolio"
 url = "#portfolio"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "équipe"
+name = "Equipe"
 url = "#team"
 weight = 4
 [[Languages.fr.menu.main]]
-name = "tarification"
+name = "Orçamento"
 url = "#pricing"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "blog"
+name = "Blog"
 url = "#blog"
 weight = 6
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Contato"
 url = "#contact"
 weight = 7
 [[Languages.fr.menu.main]]
