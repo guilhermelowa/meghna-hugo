@@ -12,8 +12,8 @@ feature:
   - title: Mapa
     icon: ti-location-pin
     content: Mapa aqui tal
-  - title: Easy Customization
-    icon: ti-panel
+  - title: Áudio
+    icon: ti-headphone
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: SEO Optimized
