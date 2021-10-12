@@ -14,10 +14,8 @@ testimonial:
     image_webp: images/client/client-2.webp
     date: ''
     content: '"Difícil gente nova vir aqui na feira."'
-  - name: Lemos Kail
+  - name: Fulana
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date: ''
+    content: "<Inserir aqui uma frase que foi dita no video>"
