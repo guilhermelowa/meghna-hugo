@@ -2,5 +2,4 @@
 about:
   enable: true
   title: O Projeto
-  about_item:
-  - Eu posso escrever aqui e vai pra lá?
+  about_item: []
