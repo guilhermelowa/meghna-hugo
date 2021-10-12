@@ -1,5 +1,5 @@
 baseURL = "https://diadefeira.netlify.com"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -9,10 +9,10 @@ title = "Dia de Feira"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Home"
-languageCode = "en-us"
-languageName = "En"
-weight = "2"
+home = "Início"
+languageCode = "pt-br"
+languageName = "Br"
+weight = "1"
 [[Languages.en.menu.main]]
 name = "about"
 url = "#about"
@@ -51,7 +51,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Início"
 languageCode = "pt-br"
 languageName = "Br"
-weight = "1"
+weight = "3"
 [[Languages.fr.menu.main]]
 name = "Sobre"
 url = "#about"
