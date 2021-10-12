@@ -1,11 +1,11 @@
-baseURL = "https://feirasdefeira.netlify.com"
+baseURL = "https://diadefeira.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Feiras de Feira"
+title = "Dia de Feira"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
