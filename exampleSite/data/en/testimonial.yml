@@ -9,13 +9,11 @@ testimonial:
     image_webp: images/client/client-1.webp
     date: ''
     content: "\"Tô há 40 anos na feira do Sobradinho. Criei meus filhos tudo aqui"
-  - name: Mark Dinn
+  - name: Vinicius
     image: images/client/client-2.jpg
     image_webp: images/client/client-2.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    date: ''
+    content: '"Difícil gente nova vir aqui na feira."'
   - name: Lemos Kail
     image: images/client/client-1.jpg
     image_webp: images/client/client-1.webp
