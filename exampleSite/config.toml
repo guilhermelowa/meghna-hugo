@@ -19,7 +19,7 @@ url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Fotos"
-url = "#fotos"
+url = "#portfolio"
 weight = "2"
 [Languages.fr]
 contentDir = "content/portugues"
