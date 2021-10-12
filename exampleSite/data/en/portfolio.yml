@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Fotos das Feiras
   portfolio_item:
+  - name: Imagem 3
+    image: images/portfolio/IMG_5458.jpg
+    image_webp: ''
+    categories:
+    - Cidade Nova
+    content: Conteúdo 3
+    link: ''
   - name: Imagem 2
     image: images/portfolio/IMG_5456.jpg
     image_webp: ''
