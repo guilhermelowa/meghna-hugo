@@ -5,10 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Dia de Feira
-  content: |-
-    Um projeto darará darará
-
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Um projeto darará darará
   button:
     enable: false
     label: Explore Us
