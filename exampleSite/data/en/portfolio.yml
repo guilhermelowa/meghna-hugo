@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Fotos das Feiras
   portfolio_item:
+  - name: Imagem 2
+    image: images/portfolio/IMG_5456.jpg
+    image_webp: ''
+    categories:
+    - Sobradinho
+    content: Descrição 2
+    link: ''
   - name: Imagem 1
     image: images/portfolio/IMG_5454.jpg
     image_webp: ''
