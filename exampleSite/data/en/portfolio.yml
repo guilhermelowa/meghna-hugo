@@ -3,26 +3,11 @@ portfolio:
   enable: true
   title: Fotos das Feiras
   portfolio_item:
-  - name: Imagem 4
-    image: images/portfolio/IMG_5461.jpg
+  - name: ''
+    image: ''
     image_webp: ''
-    categories:
-    - Estação Nova
-    content: Descrição 4
-    link: ''
-  - name: Imagem 3
-    image: images/portfolio/IMG_5458.jpg
-    image_webp: ''
-    categories:
-    - Cidade Nova
-    content: Conteúdo 3
-    link: ''
-  - name: Imagem 2
-    image: images/portfolio/IMG_5456.jpg
-    image_webp: ''
-    categories:
-    - Sobradinho
-    content: Descrição 2
+    categories: ''
+    content: ''
     link: ''
   - name: Imagem 1
     image: images/portfolio/IMG_5454.jpg
@@ -34,3 +19,24 @@ portfolio:
     - laranja
     content: Descrição
     link: https://dadosabertosdefeira.com.br/
+  - name: Imagem 2
+    image: images/portfolio/IMG_5456.jpg
+    image_webp: ''
+    categories:
+    - Sobradinho
+    content: Descrição 2
+    link: ''
+  - name: Imagem 3
+    image: images/portfolio/IMG_5458.jpg
+    image_webp: ''
+    categories:
+    - Cidade Nova
+    content: Conteúdo 3
+    link: ''
+  - name: Imagem 4
+    image: images/portfolio/IMG_5461.jpg
+    image_webp: ''
+    categories:
+    - Estação Nova
+    content: Descrição 4
+    link: ''
