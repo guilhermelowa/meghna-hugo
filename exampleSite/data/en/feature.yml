@@ -3,9 +3,11 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: We’re A Digital Design Agency.
-  content: Aqui uma breve descrição da foto, da feira, etc. Botar também o áudio e
-    o mapinha
+  title: Feira do Tomba
+  content: |-
+    Aqui uma breve descrição da foto, da feira, etc. Botar também o áudio e o mapinha
+
+    A feira do Tomba etc etc
   feature_item:
   - title: SEO Optimized
     icon: ti-world
