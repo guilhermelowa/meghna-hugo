@@ -1,4 +1,4 @@
-baseURL = "https://diadefeira.netlify.com"
+baseURL = "https://diadefeira.netlify.app"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
