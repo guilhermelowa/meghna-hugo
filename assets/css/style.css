@@ -445,7 +445,7 @@ a:hover {
 
 .hero-area:before {
   content: '';
-  background: rgba(0, 0, 0, 0.63);
+  background: rgba(0, 0, 0, 0);
   position: absolute;
   top: 0;
   right: 0;
@@ -536,7 +536,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0);
   height: 100%;
   width: 100%;
   position: absolute;
