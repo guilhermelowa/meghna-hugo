@@ -11,21 +11,24 @@
 					<h2>Feira da Cidade Nova</h2>
 					<p>A feira da Cidade Nova etc etc</p>
 					<div class="row">
-						{{ range .feature_item }}
+						<!-- {{ range .feature_item }} -->
 						<div class="col-lg-6">
 							<div class="media">
-								{{with .icon}}
+								<!-- {{with .icon}} -->
 								<div class="align-self-start mr-3">
 									<i class="{{ . }}"></i>
 								</div>
-								{{ end }}
+								<!-- {{ end }} -->
 								<div class="media-body">
-									<h4 class="media-heading">{{ .title | markdownify }}</h4>
-									<p>{{ .content | markdownify }}</p>
+									<h4 class="media-heading">Áudio da feira</h4>
+									<audio controls="controls" src="audios/alarm.wav">
+										Áudio não suportado pelo seu navegador.
+									</audio>
 								</div>
+								<img class="img-fluid" src="images/mapa.png">
 							</div>
 						</div>
-						{{ end }}
+						<!-- {{ end }} -->
 					</div>
 				</div>
 			</div>
