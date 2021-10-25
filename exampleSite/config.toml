@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Dia de Feira"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Desenvolvido por [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com). Adaptado por [Guilherme Wanderley](https://github.com/guilhermelowa/).\n\nFotos: [Ananda Nunes](https://www.instagram.com/_anandanunes/) e [Márcia Costa](https://www.instagram.com/marcia.cos/)\nVideo: [Maurício d'Oliveira](https://www.instagram.com/mauricio.sorriso/)\nEquipe: [Maic Maciel](https://www.instagram.com/maicwithlasers/), [Rosa Araújo](https://www.instagram.com/rosa_rozana/)\n"
 home = "Início"
 languageCode = "pt-br"
 languageName = "Br"
