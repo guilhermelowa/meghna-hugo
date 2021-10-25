@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Dia de Feira"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Desenvolvido por [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com). Adaptado por [Guilherme Wanderley](https://github.com/guilhermelowa/).\n\nFotos: [Ananda Nunes](https://www.instagram.com/_anandanunes/) e [Márcia Costa](https://www.instagram.com/marcia.cos/)\nVideo: [Maurício d'Oliveira](https://www.instagram.com/mauricio.sorriso/)\nEquipe: [Maic Maciel](https://www.instagram.com/maicwithlasers/), [Rosa Araújo](https://www.instagram.com/rosa_rozana/)\n"
+copyright = "Desenvolvido por [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com). Adaptado por [Guilherme Wanderley](https://github.com/guilhermelowa/).\n\nEquipe: [Ananda Nunes](https://www.instagram.com/_anandanunes/), [Emerson Oliveira](https://github.com/emersonsdo), [Guilherme Wanderley](https://github.com/guilhermelowa/), [Maic Maciel](https://www.instagram.com/maicwithlasers/),  [Márcia Costa](https://www.instagram.com/marcia.cos/), [Maurício d'Oliveira](https://www.instagram.com/mauricio.sorriso/), [Rosa Araújo](https://www.instagram.com/rosa_rozana/)"
 home = "Início"
 languageCode = "pt-br"
 languageName = "Br"
