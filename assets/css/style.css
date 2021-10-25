@@ -26,12 +26,12 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Quattrocento Sans", Verdana, sans-serif;
   color: #afbac4;
 }
 
 p {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Quattrocento Sans", Verdana, sans-serif;
 }
 
 [scroll-behavior=smooth] {
@@ -729,6 +729,7 @@ a:hover {
 
 .google-map #map-canvas {
   height: 400px;
+  width: 200px;
 }
 
 .contact-info p {
@@ -1507,6 +1508,10 @@ input#e-mail,
 /*=================================================================
   Footer section
 ==================================================================*/
+.chancelas{
+  width: 100%;
+}
+
 .social-icon {
   padding: 10px 0 0px;
 }
