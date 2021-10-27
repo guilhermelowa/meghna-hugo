@@ -8,27 +8,29 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<div class="content-block">
-					<h2>Feira da Estação Nova</h2>
-					<p>A feira da estação nova etc etc</p>
+					<h2>Feira da Cidade Nova</h2>
+					<p>A feira da Cidade Nova etc etc</p>
 					<div class="row">
-						{{ range .feature_item }}
+						<!-- {{ range .feature_item }} -->
 						<div class="col-lg-6">
 							<div class="media">
-								{{with .icon}}
+								<!-- {{with .icon}} -->
 								<div class="align-self-start mr-3">
 									<i class="{{ . }}"></i>
 								</div>
-								{{ end }}
+								<!-- {{ end }} -->
 								<div class="media-body">
 									<h4 class="media-heading">Áudio da feira</h4>
 									<audio controls="controls" src="audios/alarm.wav">
 										Áudio não suportado pelo seu navegador.
 									</audio>
 								</div>
-								<img class="portfolio-block img" src="images/mapa.png">
+								<div class="mapa">
+									<div class="mapouter"><div class="gmap_canvas"><iframe width="360" height="360" id="gmap_canvas" src="https://maps.google.com/maps?q=Feirinha%20da%20Cidade%20Nova&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net">fmovies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">how to add google maps to your website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
+								</div>
 							</div>
 						</div>
-						{{ end }}
+						<!-- {{ end }} -->
 					</div>
 				</div>
 			</div>
