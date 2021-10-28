@@ -732,6 +732,22 @@ a:hover {
   width: 200px;
 }
 
+.mapouter {
+  /* position: relative; */
+  display: flex !important;
+  text-align: center !important;
+  justify-content: center !important;
+}
+
+.gmap_canvas {
+  overflow: hidden !important;
+  background: none !important;
+  height: 500px !important;
+  width: 600px !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+
 .contact-info p {
   margin-bottom: 25px;
 }
