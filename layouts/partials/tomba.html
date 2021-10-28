@@ -16,7 +16,6 @@
 					<p>A feira livre do Tomba localiza-se diariamente na Praca Macario Barreto, 158 com mais movimento aos sábados e domingos.</p>
 					<p>Os áudios foram gravados entre os dias 12 de Setembro e 24 de Outubro de 2021.</p>
 					<div class="row">
-						{{ range .feature_item }}
 						<div class="col-lg-6">
 							<div class="media">
 								{{with .icon}}
@@ -30,13 +29,12 @@
 										Áudio não suportado pelo seu navegador.
 									</audio>
 								</div>
-								<div class="mapouter">
-									<div class="gmap_canvas"><iframe width="360" height="360" id="gmap_canvas" src="https://maps.google.com/maps?q=Praca%20Macario%20Barreto,%20158&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://2piratebay.org"></a><br>
-									</div>
-								</div>
 							</div>
 						</div>
-						{{ end }}
+						<div class="mapouter">
+							<div class="gmap_canvas"><iframe width="360" height="360" id="gmap_canvas" src="https://maps.google.com/maps?q=Praca%20Macario%20Barreto,%20158&t=&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>

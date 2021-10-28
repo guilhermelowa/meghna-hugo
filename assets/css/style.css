@@ -734,18 +734,19 @@ a:hover {
 
 .mapouter {
   /* position: relative; */
-  display: flex !important;
-  text-align: center !important;
-  justify-content: center !important;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 50%;
 }
 
 .gmap_canvas {
-  overflow: hidden !important;
-  background: none !important;
-  height: 500px !important;
-  width: 600px !important;
-  display: flex !important;
-  justify-content: center !important;
+  overflow: hidden;
+  background: none;
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .contact-info p {
@@ -2317,4 +2318,11 @@ figcaption {
 
 .cookie-box-hide {
   display: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .mapouter{
+    flex-direction: column !important;
+    width: 100%;
+  }  
 }
