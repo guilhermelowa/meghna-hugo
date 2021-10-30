@@ -456,6 +456,7 @@ a:hover {
 .hero-area .block {
   text-align: center;
   z-index: 99;
+  padding-bottom: 450px;
 }
 
 .hero-area .block .video-button {
@@ -465,6 +466,7 @@ a:hover {
   height: 60px;
   width: 60px;
   border-radius: 50px;
+  padding-bottom: 400px;
 }
 
 .hero-area .block .video-button i {
@@ -476,7 +478,6 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
-  text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -489,7 +490,7 @@ a:hover {
 
 .hero-area .block p {
   color: #fff;
-  font-size: 20px;
+  font-size: 32px;
   width: 70%;
   margin: 0 auto;
 }
