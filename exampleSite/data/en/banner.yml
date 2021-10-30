@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
+  bg_image_webp: images/backgrounds/foto_principal.webp
   bg_image: images/backgrounds/foto_principal.jpg
   icon: ''
   title: Dia de Feira
