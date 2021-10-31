@@ -10,8 +10,8 @@ testimonial:
     date: ''
     content: "\"Tô há 40 anos na feira do Sobradinho. Criei meus filhos tudo aqui"
   - name: Vinicius
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
+    image: images/testimonial/client-2.jpg
+    image_webp: images/testimonial/client-2.webp
     date: ''
     content: '"Difícil gente nova vir aqui na feira."'
   - name: Fulana
