@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: ''
   testimonial_item:
   - name: Dona Gracinha
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+    image: images/testimonial/client-1.jpg
+    image_webp: images/testimonial/client-1.webp
     date: ''
     content: "\"Tô há 40 anos na feira do Sobradinho. Criei meus filhos tudo aqui"
   - name: Vinicius
