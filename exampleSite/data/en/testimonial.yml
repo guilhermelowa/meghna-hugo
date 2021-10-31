@@ -15,7 +15,7 @@ testimonial:
     date: ''
     content: '"Difícil gente nova vir aqui na feira."'
   - name: Fulana
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+    image: images/testimonial/client-1.jpg
+    image_webp: images/testimonial/client-1.webp
     date: ''
     content: Inserir aqui uma frase que foi dita no video
