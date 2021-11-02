@@ -4,6 +4,12 @@ testimonial:
   bg_image: images/backgrounds/IMG_5486.webp
   bg_image_webp: ''
   testimonial_item:
+  - name: Edelvínea
+    image: images/testimonial/edelvinea.webp
+    image_webp: images/testimonial/edelvinea.webp
+    date: ''
+    content: '"Na verdade é uma família, né? Todo mundo se conhece, todo mundo tem
+      amizade. Se um sai, o vizinho toma conta. É assim. Um ajudando o outro"'
   - name: Dona Gracinha
     image: images/testimonial/client-1.jpg
     image_webp: images/testimonial/client-1.webp
