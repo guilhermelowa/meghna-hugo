@@ -1,21 +1,31 @@
 ---
 testimonial:
   enable: true
-  bg_image: images/backgrounds/IMG_5486.jpg
+  bg_image: images/backgrounds/IMG_5486.webp
   bg_image_webp: ''
   testimonial_item:
+  - name: Edelvínea
+    image: images/testimonial/edelvinea.webp
+    image_webp: images/testimonial/edelvinea.webp
+    date: ''
+    content: '"Na verdade é uma família, né? Todo mundo se conhece, todo mundo tem
+      amizade. Se um sai, o vizinho toma conta. É assim. Um ajudando o outro"'
   - name: Dona Gracinha
     image: images/testimonial/client-1.jpg
     image_webp: images/testimonial/client-1.webp
     date: ''
     content: "\"Tô há 40 anos na feira do Sobradinho. Criei meus filhos tudo aqui"
   - name: Vinicius
-    image: images/testimonial/client-2.jpg
-    image_webp: images/testimonial/client-2.webp
+    image: images/testimonial/vinicius.webp
+    image_webp: images/testimonial/vinicius.webp
     date: ''
-    content: '"Difícil gente nova vir aqui na feira."'
-  - name: Fulana
-    image: images/testimonial/client-1.jpg
-    image_webp: images/testimonial/client-1.webp
+    content: '"Trabalho desde 9 anos aqui com minha vó vendendo beiju. Beiju, goma,
+      biscoito... Tudo derivado da goma."'
+  - name: Denise
+    image: images/testimonial/denise.webp
+    image_webp: images/testimonial/denise.webp
     date: ''
-    content: Inserir aqui uma frase que foi dita no video
+    content: '"Eu costumo chegar cerca de 5 horas da manhã, principalmente final de
+      semana. Chega cinco, fecha seis horas da noite. Então é uma jornada de 13 horas
+      por dia mais ou menos, final de semana." "São 4 anos disso. É porquê gosta,
+      né? Quando a gente faz o que gosta, com amor, a gente não se sente cansada"'
