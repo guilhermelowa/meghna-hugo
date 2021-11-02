@@ -15,8 +15,11 @@ testimonial:
     date: ''
     content: '"Trabalho desde 9 anos aqui com minha vó vendendo beiju. Beiju, goma,
       biscoito... Tudo derivado da goma."'
-  - name: Fulana
-    image: images/testimonial/client-1.jpg
-    image_webp: images/testimonial/client-1.webp
+  - name: Denise
+    image: images/testimonial/denise.webp
+    image_webp: images/testimonial/denise.webp
     date: ''
-    content: Inserir aqui uma frase que foi dita no video
+    content: '"Eu costumo chegar cerca de 5 horas da manhã, principalmente final de
+      semana. Chega cinco, fecha seis horas da noite. Então é uma jornada de 13 horas
+      por dia mais ou menos, final de semana." "São 4 anos disso. É porquê gosta,
+      né? Quando a gente faz o que gosta, com amor, a gente não se sente cansada"'
