@@ -15,7 +15,7 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #7fc8dc;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -103,6 +103,7 @@ a:hover {
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
+  text-transform: capitalize;
 }
 
 .btn:focus {
@@ -323,7 +324,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: rgba(201,159,125, 0.7);
 }
 
 .overly {
@@ -641,16 +642,17 @@ a:hover {
 ==================================================================*/
 .call-to-action {
   background-attachment: fixed;
+  height: 300px;
 }
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #fff;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: rgba(255, 255, 255, 0.89));
 }
 
 .call-to-action .btn-main {
