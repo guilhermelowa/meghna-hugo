@@ -4,17 +4,18 @@ testimonial:
   bg_image: images/backgrounds/IMG_5486.webp
   bg_image_webp: ''
   testimonial_item:
-  - name: Edelvínea
-    image: images/testimonial/edelvinea.webp
-    image_webp: images/testimonial/edelvinea.webp
+  - name: Etelvina
+    image: images/testimonial/etelvina.webp
+    image_webp: images/testimonial/etelvina.webp
     date: ''
     content: '"Na verdade é uma família, né? Todo mundo se conhece, todo mundo tem
       amizade. Se um sai, o vizinho toma conta. É assim. Um ajudando o outro"'
-  - name: Dona Gracinha
-    image: images/testimonial/client-1.jpg
-    image_webp: images/testimonial/client-1.webp
+  - name: Etoniel
+    image: images/testimonial/etoniel.webp
+    image_webp: images/testimonial/etoniel.webp
     date: ''
-    content: "\"Tô há 40 anos na feira do Sobradinho. Criei meus filhos tudo aqui"
+    content: '"Antes eu era mecânico. Trabalhava com suspensão de caminhão.
+      Parei de trabalhar aí tô aqui aventurando a feira. Pra não passar fome, entendeu?"'
   - name: Vinicius
     image: images/testimonial/vinicius.webp
     image_webp: images/testimonial/vinicius.webp
@@ -27,5 +28,11 @@ testimonial:
     date: ''
     content: '"Eu costumo chegar cerca de 5 horas da manhã, principalmente final de
       semana. Chega cinco, fecha seis horas da noite. Então é uma jornada de 13 horas
-      por dia mais ou menos, final de semana." "São 4 anos disso. É porquê gosta,
+      por dia mais ou menos, final de semana. São 4 anos disso. É porquê gosta,
       né? Quando a gente faz o que gosta, com amor, a gente não se sente cansada"'
+  - name: Hermínio
+    image: images/testimonial/herminio.webp
+    image_webp: images/testimonial/herminio.webp
+    date: ''
+    content: '"Seis horas. Cinco e meia, seis horas. É o horário suficiente pra que sai uma,
+      duas horas da tarde. Tem momentos que sai as quatro. Depende do movimento."'
