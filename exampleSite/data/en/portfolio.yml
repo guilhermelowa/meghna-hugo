@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Fotos das Feiras
   portfolio_item:
+  - name: "64"
+    image: image/portfolio/IMG_5464.jpg
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
   - name: Imagem 1
     image: images/portfolio/IMG_5454.jpg
     image_webp: ''
