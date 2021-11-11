@@ -3,31 +3,208 @@ portfolio:
   enable: true
   title: Fotos das Feiras
   portfolio_item:
-  - name: Imagem 1
-    image: images/portfolio/IMG_5454.jpg
-    image_webp: ''
-    categories:
-    - tomba
-    content: Descrição
-    link: https://dadosabertosdefeira.com.br/
-  - name: Imagem 2
-    image: images/portfolio/IMG_5456.jpg
-    image_webp: ''
-    categories:
-    - Sobradinho
-    content: Descrição 2
-    link: ''
-  - name: Imagem 3
-    image: images/portfolio/IMG_5458.jpg
-    image_webp: ''
-    categories:
-    - Cidade Nova
-    content: Conteúdo 3
-    link: ''
-  - name: Imagem 4
-    image: images/portfolio/IMG_5461.jpg
-    image_webp: ''
+
+  # Estação
+  - image: images/portfolio/estacao/IMG_0614.webp
+    image_webp: images/portfolio/estacao/IMG_0614.webp
     categories:
     - Estação Nova
-    content: Descrição 4
-    link: ''
+  - image: images/portfolio/estacao/IMG_0755.webp
+    image_webp: images/portfolio/estacao/IMG_0755.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_0761.webp
+    image_webp: images/portfolio/estacao/IMG_0761.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_0774.webp
+    image_webp: images/portfolio/estacao/IMG_0774.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_2075-2.webp
+    image_webp: images/portfolio/estacao/IMG_2075-2.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_2079-2.webp
+    image_webp: images/portfolio/estacao/IMG_2079-2.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_2099.webp
+    image_webp: images/portfolio/estacao/IMG_2099.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_2442.webp
+    image_webp: images/portfolio/estacao/IMG_2442.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_2447.webp
+    image_webp: images/portfolio/estacao/IMG_2447.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_2468.webp
+    image_webp: images/portfolio/estacao/IMG_2468.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_2485.webp
+    image_webp: images/portfolio/estacao/IMG_2485.webp
+    categories:
+    - Estação Nova
+  - image: images/portfolio/estacao/IMG_5452.webp
+    image_webp: images/portfolio/estacao/IMG_5452.webp
+    categories:
+    - Estação Nova
+
+# Tomba
+
+  - image: images/portfolio/tomba/IMG_0625.webp
+    image_webp: images/portfolio/tomba/IMG_0625.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0636.webp
+    image_webp: images/portfolio/tomba/IMG_0636.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0837.webp
+    image_webp: images/portfolio/tomba/IMG_0837.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0851.webp
+    image_webp: images/portfolio/tomba/IMG_0851.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0869.webp
+    image_webp: images/portfolio/tomba/IMG_0869.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0870.webp
+    image_webp: images/portfolio/tomba/IMG_0870.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0882.webp
+    image_webp: images/portfolio/tomba/IMG_0882.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0888.webp
+    image_webp: images/portfolio/tomba/IMG_0888.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0900.webp
+    image_webp: images/portfolio/tomba/IMG_0900.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_0905.webp
+    image_webp: images/portfolio/tomba/IMG_0905.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_2129-2.webp
+    image_webp: images/portfolio/tomba/IMG_2129-2.webp
+    categories:
+    - Tomba
+  - image: images/portfolio/tomba/IMG_2140.webp
+    image_webp: images/portfolio/tomba/IMG_2140.webp
+    categories:
+    - Tomba
+
+# Cidade Nova
+
+  - image: images/portfolio/cddnova/IMG_2195.webp
+    image_webp: images/portfolio/cddnova/IMG_2195.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2203.webp
+    image_webp: images/portfolio/cddnova/IMG_2203.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2211.webp
+    image_webp: images/portfolio/cddnova/IMG_2211.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2218.webp
+    image_webp: images/portfolio/cddnova/IMG_2218.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2236.webp
+    image_webp: images/portfolio/cddnova/IMG_2236.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2246.webp
+    image_webp: images/portfolio/cddnova/IMG_2246.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2278.webp
+    image_webp: images/portfolio/cddnova/IMG_2278.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2290.webp
+    image_webp: images/portfolio/cddnova/IMG_2290.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2303.webp
+    image_webp: images/portfolio/cddnova/IMG_2303.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2313.webp
+    image_webp: images/portfolio/cddnova/IMG_2313.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2327.webp
+    image_webp: images/portfolio/cddnova/IMG_2327.webp
+    categories:
+    - Cidade Nova
+  - image: images/portfolio/cddnova/IMG_2525.webp
+    image_webp: images/portfolio/cddnova/IMG_2525.webp
+    categories:
+    - Cidade Nova
+
+# Sobradinho
+
+  - image: images/portfolio/sobradinho/DSC_0731.webp
+    image_webp: images/portfolio/sobradinho/DSC_0731.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2340.webp
+    image_webp: images/portfolio/sobradinho/IMG_2340.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2342.webp
+    image_webp: images/portfolio/sobradinho/IMG_2342.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2349.webp
+    image_webp: images/portfolio/sobradinho/IMG_2349.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2353.webp
+    image_webp: images/portfolio/sobradinho/IMG_2353.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2356.webp
+    image_webp: images/portfolio/sobradinho/IMG_2356.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2357.webp
+    image_webp: images/portfolio/sobradinho/IMG_2357.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2383.webp
+    image_webp: images/portfolio/sobradinho/IMG_2383.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2394.webp
+    image_webp: images/portfolio/sobradinho/IMG_2394.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2395.webp
+    image_webp: images/portfolio/sobradinho/IMG_2395.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2412.webp
+    image_webp: images/portfolio/sobradinho/IMG_2412.webp
+    categories:
+    - Sobradinho
+  - image: images/portfolio/sobradinho/IMG_2974.webp
+    image_webp: images/portfolio/sobradinho/IMG_2974.webp
+    categories:
+    - Sobradinho
+  
+
